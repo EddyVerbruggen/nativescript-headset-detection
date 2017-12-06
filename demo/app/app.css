@@ -1,0 +1,13 @@
+﻿@import 'nativescript-theme-core/css/core.light.css';
+
+button {
+  background-color: #6494AA;
+  padding: 10 12;
+  margin: 10;
+  font-size: 14;
+  border-radius: 4;
+}
+
+.button {
+  color: #ffffff;
+}

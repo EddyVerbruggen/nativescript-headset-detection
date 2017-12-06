@@ -1,7 +1,5 @@
 # NativeScript Headset Detection plugin
 
-> I made this plugin for a client who doesn't want to give it away for free. So if you want to use this plugin please contact me (my email address is on my Github profile page) and I'm sure we can work something out. The client will get 50% of anything you pay me - that's the deal we made. 💰
-
 ## Installation
 
 ```bash
@@ -34,7 +32,7 @@ headsetDetection.isConnected()
 ```
 
 ### `onConnectionStateChanged`
-To listen to changes to the headset state, use this one (adding it to a high level component like `app.[ts|js]` makes sense);
+To listen to changes to the headset state, use this one;
 you can pass in a callback function that gets invoked whenever a headset is (dis)connected:
 
 #### JavaScript

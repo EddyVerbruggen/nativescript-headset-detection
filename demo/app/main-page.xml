@@ -1,0 +1,10 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded" class="page">
+  <ActionBar class="action-bar" title="Headset Detection Plugin demo" flat="true"/>
+  <ScrollView>
+    <StackLayout class="p-20">
+      <Label text="{{ connectionState }}" class="m-y-20 text-center c-black" textWrap="true"/>
+      <Button text="is connected?" tap="{{ isConnected }}" class="button"/>
+      <Button text="listen to changes.." tap="{{ addConnectionStateChangedListener }}" class="button"/>
+    </StackLayout>
+  </ScrollView>
+</Page>
