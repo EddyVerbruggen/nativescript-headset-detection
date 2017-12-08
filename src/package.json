@@ -1,6 +1,6 @@
 {
     "name": "nativescript-headset-detection",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Detect headset (dis)connection.",
     "main": "headset-detection",
     "typings": "index.d.ts",
@@ -33,7 +33,12 @@
         "Android",
         "iOS",
         "Headset",
-        "Headset detection"
+        "Headset detection",
+        "Bluetooth",
+        "Bluetooth headset",
+        "Wired headset",
+        "Headphone jack",
+        "Bluetooth headphone"
     ],
     "author": {
         "name": "Eddy Verbruggen",
