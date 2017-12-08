@@ -34,7 +34,7 @@ headsetDetection.isConnected()
 ```
 
 ### `onConnectionStateChanged`
-To listen to changes to the headset state, use this one;
+To listen to changes to the headset state, use this one (adding it to a high level component like `app.[ts|js] makes sense);
 you can pass in a callback function that gets invoked whenever a headset is (dis)connected:
 
 #### JavaScript
