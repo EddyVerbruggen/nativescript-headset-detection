@@ -1,6 +1,6 @@
 # NativeScript Headset Detection plugin
 
-> I made this plugin for a client who doesn't want to give it away for free. So if you want to use this plugin please contact me (my email address is on my Github profile page) and I'm sure we can work something out. The original client will get 50% of anything you pay me - that's the deal we made. 💰
+> I made this plugin for a client who doesn't want to give it away for free. So if you want to use this plugin please contact me (my email address is on my Github profile page) and I'm sure we can work something out. The client will get 50% of anything you pay me - that's the deal we made. 💰
 
 ## Installation
 
