@@ -8,7 +8,7 @@
 [build-url]:https://travis-ci.org/EddyVerbruggen/nativescript-headset-detection
 [npm-image]:http://img.shields.io/npm/v/nativescript-headset-detection.svg
 [npm-url]:https://npmjs.org/package/nativescript-headset-detection
-[twitter-image]:https://img.shields.io/twitter/follow/eddyverbruggen.svg?style=social&label=Follow%20me%20🚶🏻‍♂️️%20🚶🏾‍♀️
+[twitter-image]:https://img.shields.io/twitter/follow/eddyverbruggen.svg?style=social&label=Follow%20me
 [twitter-url]:https://twitter.com/eddyverbruggen
 
 ## Installation
