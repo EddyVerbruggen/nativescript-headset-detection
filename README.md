@@ -11,6 +11,8 @@
 [twitter-image]:https://img.shields.io/twitter/follow/eddyverbruggen.svg?style=social&label=Follow%20me
 [twitter-url]:https://twitter.com/eddyverbruggen
 
+<img src="media/Demo-iOS.gif">&nbsp;&nbsp;&nbsp;&nbsp;<img src="media/Demo-Android.gif">
+
 ## Installation
 
 ```bash
