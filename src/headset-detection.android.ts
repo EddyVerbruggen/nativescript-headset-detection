@@ -43,7 +43,7 @@ export function onConnectionStateChanged(callback: (connected: boolean) => void)
     // needs a timeout to be able to report the correct state
     setTimeout(() => {
       callback(lazyAudioManager.isBluetoothA2dpOn() || lazyAudioManager.isBluetoothScoOn());
-    }, 500)
+    }, 500);
   });
 }
 

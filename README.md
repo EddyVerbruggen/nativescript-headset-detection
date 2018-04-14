@@ -1,9 +1,20 @@
 # NativeScript Headset Detection plugin
 
+[![Build Status][build-status]][build-url]
+[![NPM version][npm-image]][npm-url]
+[![Twitter Follow][twitter-image]][twitter-url]
+
+[build-status]:https://travis-ci.org/EddyVerbruggen/nativescript-headset-detection.svg?branch=master
+[build-url]:https://travis-ci.org/EddyVerbruggen/nativescript-headset-detection
+[npm-image]:http://img.shields.io/npm/v/nativescript-headset-detection.svg
+[npm-url]:https://npmjs.org/package/nativescript-headset-detection
+[twitter-image]:https://img.shields.io/twitter/follow/eddyverbruggen.svg?style=social&label=Follow%20me%20🚶🏻‍♂️️%20🚶🏾‍♀️
+[twitter-url]:https://twitter.com/eddyverbruggen
+
 ## Installation
 
 ```bash
-tns plugin add ./path/to/the/plugin.tgz
+tns plugin add nativescript-headset-detection
 ```
 
 ## API
